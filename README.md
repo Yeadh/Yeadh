@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://themeforest.net/user/themebeyond/portfolio](https://themeforest.net/user/themebeyond/portfolio)
 
-- 📝 I regularly write articles on [https://yeadh.com/blog/](https://yeadh.com/blog/)
+- 📝 Web: [https://yeadh.com//](https://yeadh.com/)
 
 - 📫 How to reach me **yeadhapps@gmail.com**
 
